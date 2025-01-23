@@ -4,80 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="693e9811-07f7-4d0f-9dc0-ba65fef1dfd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyJorge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L01_structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L02_iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L03_function_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L04_function_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L05_generators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L06_ternary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L07_lambdas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L08_closures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L09_Typing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L10_errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L11_using.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch03_lang/L12_switch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/models/basic_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/models/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/models/electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/models/parking_lot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/models/sports_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04_oop/program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05_pypi/scrape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06_mem/mem-emplorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06_mem/memutil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/css/one-page-wonder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/css/one-page-wonder.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/ax-black.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/black-acoustic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/brushed-black-electric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/jet-black-electric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/mellow-yellow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/natures-song.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/weezer-classic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/white-vibes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/guitars/woodgrain-electric.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_web/guitary/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="693e9811-07f7-4d0f-9dc0-ba65fef1dfd2" name="Changes" comment="ch07_web" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jorgerb27/talkpython_csharp_py.git",
+    "accountId": "9e25c8cc-5456-4ecc-8710-36c4fa64afd8"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -138,7 +71,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/jorgerodriguez/PycharmProjects/PyJorge/ch07_web/guitary/static",
+    "last_opened_file_path": "/Users/jorgerodriguez/PycharmProjects/PyJorge/ch07_web/guitary/templates",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -150,6 +83,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch07_web/guitary/templates" />
       <recent name="$PROJECT_DIR$/ch07_web/guitary/static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -298,8 +232,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735241176798</updated>
-      <workItem from="1735241177805" duration="68609000" />
+      <workItem from="1735241177805" duration="71014000" />
     </task>
+    <task id="LOCAL-00001" summary="ch07_web">
+      <option name="closed" value="true" />
+      <created>1737635220437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737635220437</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ch07_web">
+      <option name="closed" value="true" />
+      <created>1737635250192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737635250192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +267,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ch07_web" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch07_web" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyJorge$L09_Typing.coverage" NAME="L09_Typing Coverage Results" MODIFIED="1736347088249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
     <SUITE FILE_PATH="coverage/PyJorge$L06_ternary.coverage" NAME="L06_ternary Coverage Results" MODIFIED="1736281351967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
@@ -325,7 +280,7 @@
     <SUITE FILE_PATH="coverage/PyJorge$L08_closures.coverage" NAME="L08_closures Coverage Results" MODIFIED="1736283926366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
     <SUITE FILE_PATH="coverage/PyJorge$L03_function_basic.coverage" NAME="L03_function_basic Coverage Results" MODIFIED="1735585689624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
     <SUITE FILE_PATH="coverage/PyJorge$L10_errors.coverage" NAME="L10_errors Coverage Results" MODIFIED="1736351246337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
-    <SUITE FILE_PATH="coverage/PyJorge$app.coverage" NAME="app Coverage Results" MODIFIED="1737575558925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_web/guitary" />
+    <SUITE FILE_PATH="coverage/PyJorge$app.coverage" NAME="app Coverage Results" MODIFIED="1737576141841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_web/guitary" />
     <SUITE FILE_PATH="coverage/PyJorge$L04_function_args.coverage" NAME="L04_function_args Coverage Results" MODIFIED="1735844702614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
     <SUITE FILE_PATH="coverage/PyJorge$L02_iteration.coverage" NAME="L02_iteration Coverage Results" MODIFIED="1735582955711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_lang" />
     <SUITE FILE_PATH="coverage/PyJorge$scrape.coverage" NAME="scrape Coverage Results" MODIFIED="1737041002003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_pypi" />
